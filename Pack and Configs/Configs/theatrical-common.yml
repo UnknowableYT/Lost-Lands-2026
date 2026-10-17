@@ -1,0 +1,4 @@
+wirelessDMXRadius: 40
+maxLightDistance: 25
+shouldEmitLight: true
+defaultMaxLightDist: 256
